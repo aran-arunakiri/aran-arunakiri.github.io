@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yolt.mobile.aws",
+    "sha256_cert_fingerprints":
+    ["38:AE:BE:3E:83:68:5C:CC:D7:C6:0E:59:D9:8B:DA:B3:58:62:49:20:14:AA:29:BD:F9:81:39:3E:BF:A9:57:F3"]
+  }
+}]
